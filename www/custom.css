@@ -1,0 +1,15 @@
+
+.outer{
+  position: fixed;
+  top: 50px;
+  left: 230px;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+  height: 100%;
+}
+
+.hidden{
+  display: none;
+}
