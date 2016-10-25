@@ -2,8 +2,8 @@ name: comp1
 account: mistn
 server: shinyapps.io
 appId: 133363
-bundleId: 595277
+bundleId: 596622
 url: https://mistn.shinyapps.io/comp1/
-when: 1477329690.85256
+when: 1477432773.23744
 asMultiple: FALSE
 asStatic: FALSE
